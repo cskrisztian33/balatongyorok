@@ -3,3 +3,7 @@ body{
     background-repeat: no-repeat;
     background-size: cover; 
 }
+.keret{
+    width: 1000px;
+    margin: 0 auto 0 auto;
+}
