@@ -17,3 +17,22 @@ body{
     height: 200px;
     padding: 20px;
 }
+.bal{
+    width: 450px;
+    float: left;
+    background-color: #5B9CEA;
+    padding: 20px;
+}
+
+.jobb{
+    width: 450px;
+    float: right;
+     background-color: #5B9CEA;
+     padding: 20px;
+}
+.cimerkep img{
+    width: 150px;
+    float: right;
+    margin-right: 100px;
+    margin-top: 20px;
+}
